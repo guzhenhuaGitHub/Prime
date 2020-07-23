@@ -1,0 +1,25 @@
+{
+    "name": "prime",
+    "version": "1.0.0",
+    "description": "Bring ruby's prime module to swift world",
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {
+        "@commitlint/cli": "^9.1.2",
+        "@commitlint/config-conventional": "^9.1.1",
+        "husky": "^4.2.5"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/guzhenhuaGitHub/Prime.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/guzhenhuaGitHub/Prime/issues"
+    },
+    "homepage": "https://github.com/guzhenhuaGitHub/Prime#readme"
+}
